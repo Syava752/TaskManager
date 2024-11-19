@@ -30,6 +30,10 @@
 2. Откройте проект в IntelliJ IDEA или любой другой Java IDE.
 3. Запустите файл TaskManagerApp.java, чтобы запустить приложение.
 ---
+## Screenshot || Скриншот
+![image](https://github.com/user-attachments/assets/a6df9ffe-88b8-4a1b-9561-043c5b22a4a9)
+
+---
 
 ## File Structure || Структура файлов
 - Task: Represents individual tasks. Представляет собой отдельные задачи.
