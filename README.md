@@ -32,12 +32,12 @@
 ---
 
 ## File Structure || Структура файлов
--Task: Represents individual tasks. Представляет собой отдельные задачи.
-*TaskManager: Contains the logic for managing tasks. Содержит логику управления задачами.
-+TaskApp|TaskManagerApp: Entry points for the application, includes CLI and GUI interactions. Точки входа для приложения включает взаимодействие с интерфейсом командной строки и графическим интерфейсом.
+- Task: Represents individual tasks. Представляет собой отдельные задачи.
+- TaskManager: Contains the logic for managing tasks. Содержит логику управления задачами.
+- TaskApp|TaskManagerApp: Entry points for the application, includes CLI and GUI interactions. Точки входа для приложения включает взаимодействие с интерфейсом командной строки и графическим интерфейсом.
 --- 
 
 ## Technologies Used || Ипользуемые технологии
--Java
-*Swing (for GUI)
-+Serialization (for saving tasks)
+* Java
+* Swing (for GUI)
+* Serialization (for saving tasks)
