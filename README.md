@@ -1,6 +1,7 @@
 # TaskManager
 
 **TaskManager** is a simple Java application for managing tasks. It supports adding, editing, deleting, and viewing tasks, as well as saving and loading tasks to/from a file. The application also includes a graphical user interface (GUI) built with Swing.
+---
 **TaskManager** – это простое Java-приложение для управления задачами. Он поддерживает добавление, редактирование, удаление и просмотр задач, а также сохранение и загрузку задач в/из файла. Приложение также включает графический интерфейс пользователя (GUI), созданный с помощью Swing.
 ---
 
